@@ -9,6 +9,7 @@
 
 ---
 
-[blog](https://good-jinu.github.io/blog/)
+[![blog](https://img.shields.io/badge/blog--202a35?&logo=githubpages)](https://good-jinu.github.io/blog/)
+[![github](https://img.shields.io/badge/github--white?logo=github)](https://github.com/good-jinu)
 
 e-mail: gooday6983@gmail.com
