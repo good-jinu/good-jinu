@@ -15,15 +15,14 @@
 
 This is what i have learned 📚
 
-- 🌐 Web programming (react, vue, express)
-- 🎮 game developing (Unity)
-- 📊 data engineering and machine learning
-
+- 📊 data engineering
+- 🌐 Web BE / FE
+- 🎮 game developing
   
 
 ---
 
 
-[![blog](https://img.shields.io/badge/blog--202a35?&logo=githubpages)](https://good-jinu.github.io/blog/)
+[![blog](https://shields.io/badge/velog-139057.svg?logo=velog&style=for-the-badge)](https://velog.io/@good-jinu)
 
 ![header](https://capsule-render.vercel.app/api?type=egg&color=timeAuto&height=300&section=footer&text=Success%20usually%20comes%20to%20those%20who%20are%20too%20busy%20looking%20for%20it.&fontSize=22)
