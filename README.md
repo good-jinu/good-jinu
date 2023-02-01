@@ -1,5 +1,5 @@
 This is what i have learned 📚
 
-- 📊 data engineering
+- 📊 machine learning / data analysis
 - 🌐 Web BE / FE
 - 🎮 game developing
