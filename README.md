@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Next.js, three.js**
 
-- 👯 I’m looking to collaborate on [material-ui](https://github.com/good-jinu/material-ui)
-
 - 📫 How to reach me **gooday6983@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
