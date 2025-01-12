@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [09admin](https://09admin.com/#/landing)
 
-- 🌱 I’m currently learning **Next.js, three.js**
+- 🌱 I’m currently learning **Next.js, Rust**
 
 - 📫 How to reach me **gooday6983@gmail.com**
 
