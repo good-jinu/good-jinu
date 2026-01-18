@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm LEE JINWOO</h1>
-<h3 align="center">A passionate frontend developer from South korea</h3>
+<h3 align="center">A passionate developer from South korea</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=good-jinu" alt="good-jinu" /></a> </p>
-
-- 🔭 I’m currently working on [09admin](https://09admin.com/#/landing)
-
-- 🌱 I’m currently learning **Next.js, Rust**
 
 - 📫 How to reach me **gooday6983@gmail.com**
 
