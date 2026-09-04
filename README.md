@@ -19,9 +19,6 @@
 <a href="https://velog.io/@good-jinu" target="_blank">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge"/>
 </a>
-<a href="https://solved.ac/pkmaster7272" target="_blank">
-  <img src="https://img.shields.io/badge/Solved.ac-00C73C?style=for-the-badge&logo=solvedac&logoColor=white" alt="Solved.ac Badge"/>
-</a>
 <a href="https://github.com/good-jinu?tab=followers">
   <img src="https://img.shields.io/github/followers/good-jinu?style=for-the-badge&color=24292e&logo=github" alt="Followers Badge"/>
 </a>
@@ -75,32 +72,8 @@ contact: gooday6983@gmail.com
 ### 📈 GitHub & Activity Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/good-jinu">
-          <img src="https://github-readme-stats.vercel.app/api?username=good-jinu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jinwoo's GitHub Stats" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/good-jinu">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=good-jinu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
   <a href="https://github.com/good-jinu">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=good-jinu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Solved.ac Tier Badge -->
-  <a href="https://solved.ac/pkmaster7272" target="_blank">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=pkmaster7272" alt="Solved.ac Profile" />
   </a>
 </div>
 
