@@ -1,17 +1,111 @@
-<h1 align="center">Hi 👋, I'm LEE JINWOO</h1>
-<h3 align="center">A passionate developer from South korea</h3>
+<div align="center">
 
-- 📫 How to reach me **gooday6983@gmail.com**
+<!-- Dynamic Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Hi%20there,%20I'm%20Jinwoo%20👋&fontSize=50&fontAlignY=38&desc=Passionate%20Software%20Engineer%20%7C%20Computer%20Engineering&descAlignY=60&descAlign=50" width="100%"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<!-- Typing SVG Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Building+impactful+software+%26+scalable+web+apps;Data+Engineering+%7C+Web+Fullstack+%7C+Game+Dev;Turning+curiosity+into+code." alt="Typing SVG" />
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=good-jinu&show_icons=true&locale=en&layout=compact" alt="good-jinu" /></p>
+<br/><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=good-jinu&show_icons=true&locale=en" alt="good-jinu" /></p>
+<!-- Social Badges / Links -->
+<a href="mailto:gooday6983@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+<a href="https://velog.io/@good-jinu" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge"/>
+</a>
+<a href="https://solved.ac/pkmaster7272" target="_blank">
+  <img src="https://img.shields.io/badge/Solved.ac-00C73C?style=for-the-badge&logo=solvedac&logoColor=white" alt="Solved.ac Badge"/>
+</a>
+<a href="https://github.com/good-jinu?tab=followers">
+  <img src="https://img.shields.io/github/followers/good-jinu?style=for-the-badge&color=24292e&logo=github" alt="Followers Badge"/>
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=good-jinu&" alt="good-jinu" /></p>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+```yaml
+name: Lee Jinwoo (good-jinu)
+role: Software Engineer & Computer Engineering Student
+location: South Korea 🇰🇷
+interests:
+  - 🌐 Full-Stack Web Development (Frontend & Backend)
+  - 📊 Data Engineering & Analytics
+  - 🎮 Game Development & Interactive Systems
+motto: "Success usually comes to those who are too busy looking for it."
+contact: gooday6983@gmail.com
+```
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+#### Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript,typescript,dart" />
+
+<br/>
+
+#### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter" />
+
+<br/>
+
+#### Backend, Database & DevOps
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,docker,linux,git" />
+
+<br/>
+
+#### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=unity,arduino,jest" />
+
+</div>
+
+---
+
+### 📈 GitHub & Activity Stats
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/good-jinu">
+          <img src="https://github-readme-stats.vercel.app/api?username=good-jinu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jinwoo's GitHub Stats" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/good-jinu">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=good-jinu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <a href="https://github.com/good-jinu">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=good-jinu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Solved.ac Tier Badge -->
+  <a href="https://solved.ac/pkmaster7272" target="_blank">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=pkmaster7272" alt="Solved.ac Profile" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%"/>
+</div>
