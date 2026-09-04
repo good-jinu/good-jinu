@@ -7,7 +7,7 @@
 
 <!-- Typing SVG Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Building+impactful+software+%26+scalable+web+apps;Data+Engineering+%7C+Web+Fullstack+%7C+Game+Dev;Turning+curiosity+into+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+impactful+software+%26+web+apps;Data+Engineering+%7C+Web+Fullstack+%7C+Game+Dev;Always+building%2C+always+curious." alt="Typing SVG" />
 </a>
 
 <br/><br/>
