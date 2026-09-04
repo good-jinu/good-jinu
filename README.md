@@ -37,7 +37,7 @@ interests:
   - 🌐 Full-Stack Web Development (Frontend & Backend)
   - 📊 Data Engineering & Analytics
   - 🎮 Game Development & Interactive Systems
-motto: "Success usually comes to those who are too busy looking for it."
+motto: "Always building, always curious."
 contact: gooday6983@gmail.com
 ```
 
